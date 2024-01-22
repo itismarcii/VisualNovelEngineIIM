@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00944428716543e40a02bbc2d80e935e, type: 3}
+  m_Name: KimPossibleDefaultLocationContainer
+  m_EditorClassIdentifier: 
+  <LocationWeekObject>k__BackingField:
+    <Monday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Tuesday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Wednesday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Thursday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Friday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Saturday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}
+    <Sunday>k__BackingField:
+      Midnight: {fileID: 0}
+      EarlyMorning: {fileID: 0}
+      Morning: {fileID: 0}
+      LateMorning: {fileID: 0}
+      Noon: {fileID: 0}
+      Afternoon: {fileID: 0}
+      EarlyEvening: {fileID: 0}
+      Evening: {fileID: 0}
+      LateEvening: {fileID: 0}
+      Night: {fileID: 0}
+      LateNight: {fileID: 0}

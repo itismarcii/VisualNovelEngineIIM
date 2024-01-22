@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2762118f34a666548994979b9794ff1d, type: 3}
+  m_Name: QuestInfoScr
+  m_EditorClassIdentifier: 
+  <QuestName>k__BackingField: 
+  <Description>k__BackingField: 
+  <QuestRequirement>k__BackingField: []
+  <QuestSteps>k__BackingField:
+  - {fileID: 11400000, guid: 6e1eb347ae95f5d4db0193a54f12874d, type: 2}
+  - {fileID: 11400000, guid: 4cddf2811166f164ea6177a933487c95, type: 2}
+  <QuestReward>k__BackingField:
+    Money: 0
+    Experience: 0
+    Items: []
+    LocationOverrides: []
+    SceneEvents: []
