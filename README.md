@@ -16,3 +16,6 @@ This project is currently a work in progress, and as of now, none of its compone
 ## Description
 
 Welcome to this ongoing asset project, a compact work-in-progress designed to evolve into a freely accessible Visual Novel Component for the Unity Engine. Tailored for storytellers, artists, and developers, this initiative empowers creators to craft their unique Visual Novels without the need to delve into extensive programming. Join us on this journey to simplify and enhance the creative process, making the world of interactive storytelling more accessible to all. 
+
+## Usage
+[WIP]
